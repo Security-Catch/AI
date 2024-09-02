@@ -1,0 +1,40 @@
+문자 모델
+
+Python 3.10.12
+
+Name: numpy
+Version: 1.25.2
+
+Name: pandas
+Version: 2.0.3
+
+Name: scikit-learn
+Version: 1.2.2
+
+Name: transformers
+Version: 4.40.2
+
+Name: tensorflow
+Version: 2.15.0
+
+Name: scipy
+Version: 1.11.4
+
+url
+
+Python 3.10.12
+
+Name: nltk
+Version: 3.8.1
+
+Name: scikit-learn
+Version: 1.2.2
+
+Name: numpy
+Version: 1.25.2
+
+Name: joblib
+Version: 1.4.2
+
+Name: scipy
+Version: 1.11.4
